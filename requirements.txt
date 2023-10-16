@@ -1,0 +1,7 @@
+chart_studio
+google-cloud-bigquery
+google-cloud-secret-manager
+pandas-gbq
+streamlit-aggrid
+js2py
+ruptures
