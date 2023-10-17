@@ -114,7 +114,7 @@ END FOR;
 ##### Forecast Section 
 *i.e Fcst Period, Forecast, Fcst Bench, and Fcst % against bench*
 - represents the cumulative predicted performance of the episode at the forecasted hour (nearest 24-hour window), and how that relates to the channel benchmark at the respective forecasted hour.
-- ARIMA forecast model is compiled in BigQuery ML and run on an hourly schedule. See the following code below:
+- ARIMA forecast model is compiled in BigQuery ML and run on an hourly schedule. Sample parameters are chosen for visual purposes. See the following code below:
 ```
 CREATE OR REPLACE MODEL `insert_model_name_here`
 OPTIONS(MODEL_TYPE='ARIMA_PLUS',
