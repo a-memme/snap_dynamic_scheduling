@@ -1,4 +1,4 @@
-# Snapchat Dynamic Scheduling 
+# Performance-Based Scheduling 
 ## Overview 
 *The framework of this project is based off a deprecated real-world project that has been edited for the suitability of a github repo*
 
