@@ -1,13 +1,13 @@
 # Snapchat Dynamic Scheduling 
 ## Overview 
-*This is a replication of a deprecated real-world project that has been edited for the suitability of a github repo*
+*The framework of this project is based off a deprecated real-world project that has been edited for the suitability of a github repo*
 
 Using Auto-ARIMA timeseries modelling to forecast social media video viewership performance. PELT change point detection (ruptures library) is layered on the forecast to identify major changes in trends in reference to actual performance + the model's prediction (offline change detection updated as the timeseries model updates). Models are deployed via Streamlit Web-app, providing real-time analytics and scheduling recommendations that update hourly.
 
 
 
 ## Purpose 
-*This is a replication of a deprecated real-world project that has been edited for the suitability of a github repo*
+*The framework of this project is based off a deprecated real-world project that has been edited for the suitability of a github repo*
 
 Through previous analysis, it has been discovered that episodes on a social media platform (such as Snapchat) have their performance thwarted with the following episode's release on channel - with this, scheduling content to reflect performance rather than a weekly set schedule becomes an area of interest, i.e dynamically scheduling episodes to give longer running time to high performers, and cutting off time on platform for low performers.  
 
