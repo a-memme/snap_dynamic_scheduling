@@ -105,8 +105,7 @@ END FOR;
 - agGrid compatibility provides the ability to filter and select/unselect columns for scalability (episode names and ID's are discluded in the instance below)
 - Data is cached periodically to save on computing power, and updated as data in the GCP database is updated.
 
-![image](https://github.com/a-memme/Snapchat_Dynamic_Scheduling/assets/79600550/afac7728-0115-4bb2-9499-f759bc48fa55)
-
+![image](https://github.com/a-memme/snap_dynamic_scheduling/assets/79600550/92c2712b-5beb-4063-86ca-f5d39d88fc3f)
 
 ##### Current Section 
 *i.e Current Hour, Current Perforance, Current Benchmark and % v Bench*
@@ -222,7 +221,8 @@ def changepoint_df(choose_episode):
 - The cumulative line graph shows the relevant benchmarks as well as areas in which positive or negative change has been detected depicted by 🔥 or 🥶 respectively (offline detection of the nearest 24 hour prediction).
 - Historical performance is represented by the dark purple line while forecasted performance is represented by royal blue (See Legend). 
 
-![image](https://github.com/a-memme/Snapchat_Dynamic_Scheduling/assets/79600550/530745a1-04c6-45bf-8ef2-3f52fdb3cc6f)
+![image](https://github.com/a-memme/snap_dynamic_scheduling/assets/79600550/10329ab1-8f8d-48aa-b42b-9752a6b7d97c)
+
 
 
 
